@@ -1,0 +1,11 @@
+{
+  "name": "skyway-temp-p2p-sample",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "create": "node scripts/createUrl.js"
+  }
+}
